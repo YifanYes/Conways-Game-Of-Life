@@ -7,6 +7,8 @@ Este juego fue creado con la biologia en mente pero ha sido aplciado en varios c
 
 El "juego" es para cero jugadores, la evolucion esta determinado por su estado inicial, no necesita mas interraccion. El jugador crea la configuracion inicial del tablero y observa como evoluciona, o para jugadores mas avanzados, intentar crear patrones con propiedades especiales.
 
+![Game of Life](life_game.gif)
+
 **Como funciona el juego**
 Ya que Game of Life esta construido sobre un grid de nueve cuadrados, cada celula tiene ocho celulas vecinas. La evolucion sigue cuatro reglas:
 - Si una celula esta viva y tiene menos de dos vecinos vivos, muere.
