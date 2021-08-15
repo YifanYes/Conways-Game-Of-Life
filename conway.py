@@ -108,7 +108,6 @@ def main():
         addGosperGliderGun(10, 10, grid)
 
     else:
-        # populate grid with random on/off - more off than on
         grid = randomGrid(N)
 
     # Crea la animacion 
